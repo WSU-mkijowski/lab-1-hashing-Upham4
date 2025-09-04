@@ -123,471 +123,471 @@ FLastName, Attempt #,Attempt Start,Attempt End,Section #,Q #,Q Type,Q Title,Q Te
 34525f83b5619c4e4524dc7114804f7cd7ad3201786c799b41181667fcba02305fd24, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,Checked,0,1
 34525f83b5619c4e4524dc7114804f7cd7ad3201786c799b41181667fcba02305fd24, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,0,1
 34525f83b5619c4e4524dc7114804f7cd7ad3201786c799b41181667fcba02305fd24, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,Checked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,6,T/F,,Something can be both New and Improved,False,1,True,UnChecked,1,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,6,T/F,,Something can be both New and Improved,False,1,False,Checked,1,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,gardevoir,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,gardevoir,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,Checked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,UnChecked,0,1
-JBennett, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,Checked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,Checked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,6,T/F,,Something can be both New and Improved,False,1,True,UnChecked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,6,T/F,,Something can be both New and Improved,False,1,False,Checked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,bologna,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,bologna,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
-ABhardwaj, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,Checked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,Checked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,UnChecked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,My,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,bologna,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,Checked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,Checked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,0,1
-ICollins, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,Checked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,Jake,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Finn,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
-JCox, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,Checked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,brayden,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,kellan,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,Checked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
-HCulp, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,Checked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,True,UnChecked,1,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,False,Checked,1,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,Big,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Tim,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,Checked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,UnChecked,0,1
-CDalton, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,Checked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,Checked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,Checked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,my bologna,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,my bologna,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
-BDunson, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,Checked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,NOT,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,REAL,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,Checked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
-GFrancis, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,1,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,1,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,Checked,1,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,1,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,Checked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,meat,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,cylinder,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,Checked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,0,1
-SFricke, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,True,UnChecked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,False,Checked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,jeremy,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,gauker,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
-AGlass, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,Oscar,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Mayer,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
-DGnau, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,Checked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,True,UnChecked,1,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,False,Checked,1,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,X Æ A-Xii,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Musk,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
-JHeath, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,Checked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,Checked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,Ankit,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Shrestha,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,Checked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,UnChecked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
-DJirel, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,Checked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,Checked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,420,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,69,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
-AKeenan, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,Checked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,Sharona,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Sharona,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
-AKelly, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,Checked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,6,T/F,,Something can be both New and Improved,False,1,True,UnChecked,1,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,6,T/F,,Something can be both New and Improved,False,1,False,Checked,1,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,gardevoir,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,gardevoir,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,Checked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,UnChecked,0,1
+2255632893d4559199cd7ca7e13dad2171c61002d6d2851c37bc6f9b063f8720c3f20, 1,1/16/2025 9:33 AM,1/16/2025 9:36 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,Checked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,Checked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,6,T/F,,Something can be both New and Improved,False,1,True,UnChecked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,6,T/F,,Something can be both New and Improved,False,1,False,Checked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,bologna,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,bologna,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
+7853402e4000401c5b69a8936c576b693778ff2c15e9aff5a23b99f71fd044ef10c96, 1,1/16/2025 9:30 AM,1/16/2025 9:34 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,Checked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,Checked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,UnChecked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,My,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,bologna,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,Checked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,Checked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,0,1
+36674f75ea5d5b0ad3bfa9d073cdab4e0447ba2b357c41b5fea56f4c39bf45e28f1e0, 1,1/16/2025 9:37 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,Checked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,Jake,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Finn,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
+46775df03a32a092959f835938aec4fc87b32514eec034e14037e757de2f49abe36c2, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,Checked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,brayden,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,kellan,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,Checked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
+4688606f3c9de6c195a14af129dc0832c87c1ea93fd4692ffb72c359fa63341a7c739, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,Checked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,True,UnChecked,1,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,False,Checked,1,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,Big,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Tim,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,Checked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,UnChecked,0,1
+43215f899c3a58460df690f3e4407a0cdaec426c7d5af7870ac0c3f473997b5a39864, 1,1/16/2025 9:31 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,Checked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,Checked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,Checked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,my bologna,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,my bologna,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
+3675567371bf4e8a79b2187a4a45e426a08ec2fe1106541056e1fece7ee61e6176c9c, 1,1/16/2025 9:30 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,Checked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,NOT,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,REAL,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,Checked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
+36657a67a7135c341533000d6ebb084d71419c9f0527ad2a81bd6ad789927c132fffd, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,1,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,1,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,Checked,1,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,1,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,Checked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,meat,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,cylinder,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,Checked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,0,1
+125785fb75e6664cfa44990df9e4b2bb84ab8668fef218679b1a09314ff8eb0f39e0e, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,True,UnChecked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,6,T/F,,Something can be both New and Improved,False,1,False,Checked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,jeremy,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,gauker,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
+35743a4ddc361d93dc2038c89b7e8fc194318bcd5ae2610a6c0dcfa1824dc9905fee5, 1,1/16/2025 9:36 AM,1/16/2025 9:38 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,Oscar,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Mayer,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
+4356753cb09527f4e83709d223ef606d7adb0a3dcf16a8341282d2b82ab8d9b4d5c96, 1,1/16/2025 9:32 AM,1/16/2025 9:37 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,Checked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,Checked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,True,UnChecked,1,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,False,Checked,1,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,X Æ A-Xii,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Musk,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
+2579609f4a6a89eeb0e2b690b87e39cfd5401413a0f78f9884970291f35684c132f6b, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,Checked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,Checked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,UnChecked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,Checked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,Ankit,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Shrestha,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,Checked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,UnChecked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
+3568684996b3202866f8692cfb93f98961588b19e29a4116b1af86206f64b2d71ba3a, 1,1/16/2025 9:37 AM,1/16/2025 9:41 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,Checked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,Checked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,420,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,69,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,Checked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
+11345b567dfc5efb73e9755244e3a59886dac83ef77f2685f5c8c00f4a5e903e8a3b8, 1,1/16/2025 9:30 AM,1/16/2025 9:33 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,41,Checked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,50%,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,60%,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,2,MC,,"If you choose the answer to this question at random, what is the chance you will be correct?",False,1,25%,Checked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,True,Checked,1,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,3,T/F,,"Should the word ""Abbreviation"" be shorter?",False,1,False,UnChecked,1,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,7,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,26,Checked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,4,MC,,How many letters are in the alphabet?,False,1,11010,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Disney sues you,Checked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,Paul Bettany joins you,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,5,MC,,"If you take a ship and replaced all of the parts until none of the original parts of this ship are a part of the ship, what happens?",False,1,You have two ships,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,True,Checked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,6,T/F,,Something can be both New and Improved,False,1,False,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 1,Sharona,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,7,FIB,,"My bologna has a first name, it's _______ my bologna has a second name, it's _______ ",False,1,Answer for blank # 2,Sharona,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,yes,Checked,1,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,8,MC,,Is your answer to this question 'no'?,False,1,no,UnChecked,1,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,s,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,c,Checked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,a,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,9,MC,,"In the word ""scent"", which letter is silent?",False,1,p,UnChecked,0,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,frozen yogurt,UnChecked,1,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,a popsicle,UnChecked,1,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,coca cola,UnChecked,1,1
+535215fb7d137a0e26f02c91c6448b99f74c3950b0d4e0de063fab24a5bfd51e23132, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,10,MC,,"If revenge is a dish best served cold, and revenge is sweet, then revenge is:",False,1,ice cream,Checked,1,1
 RKocher-harper, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,38,UnChecked,0,1
 RKocher-harper, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,39,UnChecked,0,1
 RKocher-harper, 1,1/16/2025 9:30 AM,1/16/2025 9:32 AM,,1,MC,,"What is the answer to life, the universe, and everything?",False,1,40,Checked,0,1
