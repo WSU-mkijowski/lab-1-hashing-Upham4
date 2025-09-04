@@ -5,14 +5,14 @@
 
 ### Task 1: Hashing
 
-**Reminder Deliverable:** Is your `salted-data.csv` in this repository?
+**Reminder Deliverable:** Is your `salted-data.csv` in this repository? YES
 
 Answer the following in this file:
 
 * How many unique users are in the data?
- 42
+ * 42
 * How many salts did you create?
- 42
+ * 42
 * How many possible combinations will I need to try to figure out the secret ID
   of all students (assume I know all potential secret IDs and have your 
   `salted-data.csv`)
@@ -29,8 +29,8 @@ cat quiz_data.csv | awk -F "," '{print $1}' | uniq
 
 ### Task 2: Crypto Mining
 
-**Reminder Deliverable:** Is your "mining" code in this repository (`mining/`)?
-**Reminder Deliverable:** Is your nonce + word combos in `coins.txt`?
+**Reminder Deliverable:** Is your "mining" code in this repository (`mining/`)? YES
+**Reminder Deliverable:** Is your nonce + word combos in `coins.txt`? YES
 
 Answer the following:
 
@@ -38,19 +38,26 @@ Answer the following:
 hash)
 
 ```
+00002e4540e40d33b7de6e5e465639e9296cfb73545a873cdd8bec84691eb364 - 258abortive
+
+0000096b7637d73888309b3f16b5c5615fb926940d1734c403aab92950a22d1b - 340abouchement
 
 ```
 
 * How many words were in your dictionary?
+ * 576
 * How many nonces did your code iterate over?
+ * 1000
 * What was the maximum number of hashes your code *could* compute given the above?
+ * 576000
 * What did you think about Task 2?
+ * it was alright just had to wait until the right hashes showed up
 * Is there a better way than brute force to attempt to get higher valued coins?
+ * Yeah
 * Why or why not?
-
+ * Just having more computing power would be able to generate more coins meaning you would find those higher valued coins faster
 
 ```bash
-please put any cool bash one-liners or other piped commands you
-learned/struggled with for task 2 here
+./miner.sh | grep '000'
 ```
 
