@@ -10,16 +10,23 @@
 Answer the following in this file:
 
 * How many unique users are in the data?
- * 42
+  * 42
+
 * How many salts did you create?
- * 42
+  * 42
+
 * How many possible combinations will I need to try to figure out the secret ID
   of all students (assume I know all potential secret IDs and have your 
   `salted-data.csv`)
+  * 42 * 42 = 1764
+
 * Instead of salts, if you were to use a nonce (unique number for each hashed
   field) how many possible combinations would I need to try?
+  * 1764 * 42 = 74088
+
 * Given the above, if this quiz data were *actual* class data, say for example
   your final exam, how would you store this dataset?  Why?
+  * I would make the salts way longer so that it would be much harder to get into the data 
 
 ```bash
 cat quiz_data.csv | awk -F "," '{print $1}' | uniq
@@ -45,17 +52,22 @@ hash)
 ```
 
 * How many words were in your dictionary?
- * 576
+  * 576
+
 * How many nonces did your code iterate over?
- * 1000
+  * 1000
+
 * What was the maximum number of hashes your code *could* compute given the above?
- * 576000
+  * 576000
+
 * What did you think about Task 2?
- * it was alright just had to wait until the right hashes showed up
+  * it was alright just had to wait until the right hashes showed up
+
 * Is there a better way than brute force to attempt to get higher valued coins?
- * Yeah
+  * Yeah
+
 * Why or why not?
- * Just having more computing power would be able to generate more coins meaning you would find those higher valued coins faster
+  * Just having more computing power with a big dictionary would be able to generate more coins meaning you would find those higher valued coins faster
 
 ```bash
 ./miner.sh | grep '000'
